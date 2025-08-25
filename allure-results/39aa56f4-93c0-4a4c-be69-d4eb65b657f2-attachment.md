@@ -1,0 +1,137 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#zak-content"
+- banner:
+  - link "Practice E-Commerce Site":
+    - /url: https://practice.sdetunicorns.com/
+    - img "Practice E-Commerce Site"
+  - paragraph:
+    - link "Practice E-Commerce Site":
+      - /url: https://practice.sdetunicorns.com/
+  - paragraph: SDET Unicorns
+  - navigation:
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: https://practice.sdetunicorns.com/
+      - listitem:
+        - link "About":
+          - /url: https://practice.sdetunicorns.com/about/
+      - listitem:
+        - link "Shop":
+          - /url: https://practice.sdetunicorns.com/shop/
+      - listitem:
+        - link "Blog":
+          - /url: https://practice.sdetunicorns.com/blog/
+      - listitem:
+        - link "Contact":
+          - /url: https://practice.sdetunicorns.com/contact/
+      - listitem:
+        - link "My account":
+          - /url: https://practice.sdetunicorns.com/my-account/
+  - link:
+    - /url: "#"
+    - img
+  - listitem:
+    - link "9":
+      - /url: https://practice.sdetunicorns.com/cart/
+      - img
+      - text: "9"
+  - link "Courses":
+    - /url: https://sdetunicorns.com/courses
+- heading "Contact" [level=1]
+- navigation "Breadcrumbs":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://practice.sdetunicorns.com/
+      - text: /
+    - listitem: Contact
+- heading "Address" [level=4]
+- paragraph: Moon Street , 446 Jupiter, JP 44600
+- heading "Email" [level=4]
+- paragraph: zakra@demos.com first.last@demos.com
+- heading "Phone" [level=4]
+- paragraph: "Call : +(123) 456-7890 Call : +977 123-456789"
+- heading "Time" [level=4]
+- paragraph: "Monday - Saturday : 9AM - 6 PM Sunday : Closed"
+- heading "Let's talk" [level=2]
+- paragraph: Turpis dolor, feugiat vehicula sem porttitor aliquet. Et, consectetur ac eu facilisis amet quis. Vitae magnis aliquam, laoreet amet in pulvinar sed praesent.
+- link "call us now":
+  - /url: "#"
+- heading "Send Us Message" [level=3]
+- paragraph: Fames in pulvinar eget varius libero, eget non, eget. Ut euismod vitae quam turpis massa aenean.
+- text: Name *
+- textbox "Name *": John Lopez
+- text: Email *
+- textbox "Email *": mail@mail.com
+- text: Phone *
+- textbox "Phone *"
+- text: Message
+- textbox "Message"
+- button "Submit"
+- iframe
+- list:
+  - listitem:
+    - link:
+      - /url: "#"
+  - listitem:
+    - link:
+      - /url: "#"
+  - listitem:
+    - link:
+      - /url: "#"
+  - listitem:
+    - link:
+      - /url: "#"
+  - listitem:
+    - link:
+      - /url: "#"
+- contentinfo:
+  - paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elit feugiat sit purus varius. Non in turpis tincidunt nulla. Condimentum ultrices nunc odio ante.
+  - heading "Quick Links" [level=2]
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://practice.sdetunicorns.com/
+    - listitem:
+      - link "About":
+        - /url: https://practice.sdetunicorns.com/about/
+    - listitem:
+      - link "Blog":
+        - /url: https://practice.sdetunicorns.com/blog/
+    - listitem:
+      - link "Contact":
+        - /url: https://practice.sdetunicorns.com/contact/
+    - listitem:
+      - link "Support Form":
+        - /url: https://practice.sdetunicorns.com/support-form/
+  - heading "Latest Posts" [level=2]
+  - list:
+    - listitem:
+      - link "IFrame Sample":
+        - /url: https://practice.sdetunicorns.com/iframe-sample/
+    - listitem:
+      - link "Successful Marketing Ads for Your Business":
+        - /url: https://practice.sdetunicorns.com/successful-marketing-ads-for-your-business/
+    - listitem:
+      - link "Let’s Building Your Business from Scratch":
+        - /url: https://practice.sdetunicorns.com/lets-building-your-business-from-scratch/
+  - heading "Contact Us" [level=2]
+  - paragraph: "Ph. : +(123) 456-7890"
+  - paragraph: "Email : first.last@demos.com"
+  - paragraph: "Loc : Moon Street , 446 Jupiter"
+  - paragraph: "Open : 9AM – 6PM (Mon – Fri)"
+  - paragraph:
+    - text: Copyright © 2020
+    - link "SDET Unicorns":
+      - /url: https://sdetunicorns.com/
+- link "Scroll to top":
+  - /url: "#"
+  - img
+  - text: Scroll to top
+- text: desktop
+- status
+```
